@@ -6,12 +6,12 @@ dubbo-cunsumer 消费者
 
 # 功能
 
-实现HelloWorld
+实现 控制台输出 hello ： world
 
 # 运行步骤
 
 1. 运行 dubbo-service 中 main 方法
-2. 运行 dubbo-cunsumer 中AppTest 方法
+2. 运行 dubbo-cunsumer 中 AppTest 方法
 
 # 运行结果
 
