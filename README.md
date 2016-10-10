@@ -1,6 +1,6 @@
 # 说明
 
-dubbo-service 服务者
+dubbo-service 提供者
 
 dubbo-cunsumer 消费者
 
