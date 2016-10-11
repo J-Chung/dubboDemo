@@ -1,13 +1,13 @@
 # 说明
 
-dubbo-service 提供者
+* dubbo-service 提供者
 
-dubbo-cunsumer 消费者
+* dubbo-cunsumer 消费者
 
 # 功能
 
-1. 实现 控制台输出 hello ： world
-2. 使用zookeeper注册中心
+* 实现 控制台输出 hello ： world
+* 使用zookeeper注册中心
 
 # 运行步骤
 
